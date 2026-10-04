@@ -31,7 +31,7 @@ Whenever we tried traditional task managers or homework tracking apps, they made
 
 ## Demo
 
-* **Live Demo URL:** `https://tides-pwa.pages.dev` *(or run locally via `npm run dev` at `http://localhost:5173/`)*
+* **Live Demo URL:** [https://tides-go8j.onrender.com/](https://tides-go8j.onrender.com/) *(or run locally via `npm run dev` at `http://localhost:5173/`)*
 * **Architecture Blueprint & Specs:** Included directly in the repository under [`docs/BLUEPRINT.md`](docs/BLUEPRINT.md) and [`docs/IMPLEMENTATION_NOTES.md`](docs/IMPLEMENTATION_NOTES.md).
 
 ### Visual Walkthrough

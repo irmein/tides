@@ -3,6 +3,7 @@
 > **Tactile, low-friction, offline-first personal energy-pacing PWA designed for middle schoolers (ages 10–13).**  
 > *Built with ❤️ for my 11-year-old daughter, Nia.*
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://tides-go8j.onrender.com/)
 [![Offline First](https://img.shields.io/badge/Storage-IndexedDB%20(Dexie.js)-10b981?style=flat-square)](https://dexie.org)
 [![PWA Ready](https://img.shields.io/badge/PWA-Workbox%20CacheFirst-3b82f6?style=flat-square)](https://vite-pwa-org.netlify.app)
 [![Zero Trackers](https://img.shields.io/badge/Privacy-COPPA%20Compliant%20%7C%200%20Trackers-purple?style=flat-square)](#privacy--coppa-compliance)
