@@ -162,7 +162,7 @@ Open innovation made it possible to build a calm, respectful tool that serves a 
 This project was architected, implemented, and verified with the help of an autonomous AI agent in the Antigravity IDE:
 
 ```markdown
-{% agent_session 4bc093b2-1a41-445c-9a11-efd2a777e451 %}
+{% raw %}{% agent_session 4bc093b2-1a41-445c-9a11-efd2a777e451 %}{% endraw %}
 ```
 
 *(Session transcript includes architectural blueprints, Dexie.js database schema migrations, rule engine unit evaluations, and automated browser walkthrough recordings).*
