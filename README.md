@@ -94,6 +94,7 @@ Tides operates under a **Strict Local-First Privacy Stance**:
 
 ## 📖 Documentation
 
+* [Product Concept Note](docs/CONCEPT_NOTE.md)
 * [Architectural Blueprint](docs/BLUEPRINT.md)
 * [Tactile UX Implementation Notes](docs/IMPLEMENTATION_NOTES.md)
 * [Hacktoberfest Submission Entry](submission/SUBMISSION.md)
